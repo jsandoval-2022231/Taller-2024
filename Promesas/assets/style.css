@@ -1,0 +1,26 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: cornsilk;
+}
+
+.container {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.1);
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+.oculto {
+    display: none;
+
+}
